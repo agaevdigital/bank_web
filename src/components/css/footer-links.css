@@ -1,0 +1,9 @@
+.footer_link:hover {
+    color: #FF9B0F
+}
+.footer_link {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: ProximaNova, sans-serif;
+}

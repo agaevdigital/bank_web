@@ -1,0 +1,16 @@
+.kyc-stages {
+    min-width: 500px;
+    max-width: 640px;
+    cursor: pointer;
+    min-height: 100px;
+    border: 1px solid #E9F2F2;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.kyc-stages:hover {
+    background: #FF9B0F
+}

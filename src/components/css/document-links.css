@@ -1,0 +1,16 @@
+.document_link:hover {
+    color: #FF9B0F;
+    text-decoration: underline;
+}
+.document_link {
+    text-decoration: none;
+    color: #007bff;
+    opacity: 1;
+    font-size: 14px;
+    font-family: ProximaNova, sans-serif;
+    font-weight: 400 !important;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 1.5;
+}
+

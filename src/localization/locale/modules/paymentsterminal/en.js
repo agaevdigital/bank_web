@@ -1,0 +1,17 @@
+export default {
+ title: 'Payments terminal',
+ send_btn: 'Send',
+ sub_item_1: 'PAYS UNION offers PAYSUNION ATM devices for accepting funds for various payments and allows you to transfer money to electronic bills, wallets, pay fines and utilities on your own.',
+ sub_item_2: 'Through PAYSUNION ATM you can replenish your account online at PAYSUNION yourself.',
+ sub_item_3: 'If you have your own business, you can accept payments through PAYSUNION ATM.',
+ sub_item_4: 'If you already have a terminal business ready, we invite you to cooperate with us.',
+ sub_item_5: 'Preorder terminal',
+ sub_item_6: 'Business category',
+ sub_item_7: 'Company name',
+ sub_item_8: 'Company country',
+ sub_item_9: 'Company address',
+ sub_item_10: 'Contact person name',
+ sub_item_11: 'Contact person surname',
+ sub_item_12: 'Contact e-mail',
+ sub_item_13: 'Contact phone',
+}

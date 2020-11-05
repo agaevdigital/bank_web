@@ -1,0 +1,16 @@
+.kyc-document-type {
+    min-width: 300px;
+    max-width: 400px;
+    cursor: pointer;
+    height: 120px;
+    border: 1px solid #E9F2F2;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.kyc-document-type:hover {
+    background: #FF9B0F
+}

@@ -1,0 +1,15 @@
+export default {
+ title: 'Payment processing',
+ desc: 'Solution for banks and financial institutions - members of VISA and MASTERCARD, we offer the reliable solution for processing payments and payment cards',
+ sub_item_1: "PAYSUNION offers modern technology and a wide range of processing services for acquirers and issuers.",
+ sub_item_2: "We have unique set of processing services for managing the entire transaction processing cycle and card issuance. PAYSUNION's portfolio of services and advanced technologies allow the company to provide a reliable processing platform that can help you compete successfully in the financial environment.",
+ advantages: 'PAYSUNION advantages:',
+ advantages_1_title: 'Reliable payment protection',
+ advantages_1_desc: 'Compliance with international security requirements: PCI DSS, PCI PA-DSS, PCI PIN Security, EMV Level 2. Fraud transaction monitoring and flexible security filter settings.',
+ advantages_2_title: 'Accepting all means of online payment',
+ advantages_2_desc: 'Bank and fuel cards, NFC devices, electronic money, Apple Pay, Master Pass, Samsung Pay, VISA pay Wave, Google Pay',
+ advantages_3_title: 'Convenient payment monitoring',
+ advantages_3_desc: "PAYSUNION's personal account allows you to collect and upload all statistics on payments and monitor transactions in real time.",
+ advantages_4_title: '24/7 technical support',
+ advantages_4_desc: "We are always ready to promptly answer questions of partners, customers and payers by telephone hotline!",
+}

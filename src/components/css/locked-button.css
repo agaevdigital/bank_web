@@ -1,0 +1,17 @@
+.locked-button {
+    min-width: 120px;
+    max-width: 200px;
+    //cursor: pointer;
+    height: 80px;
+    border: 1px solid #E9F2F2;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: lightgrey;
+}
+.locked-button:hover {
+    //background: gray;
+}
