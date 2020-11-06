@@ -116,9 +116,9 @@ class StaticPageDonations extends React.Component {
     }
 
     componentDidMount() {
-        /*setTimeout(function(){
+        setTimeout(function(){
             this.setState({paused:true});
-        }.bind(this), 3700);*/
+        }.bind(this), 3700);
     }
 
     handleLoginRedirect() {

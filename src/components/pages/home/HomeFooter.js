@@ -11,12 +11,19 @@ import {containerStyle} from "./styles/PublicStyle";
 import Radium from "radium";
 
 const footerStyle = {
-    paddingTop: "50px",
+    paddingTop: "80px",
     paddingBottom: "43px",
     backgroundImage: "url(" + FooterBackground + ")",
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",
     alignContent: "flex-end",
+    "@media (min-width: 2300px)": {
+        paddingTop: "100px",
+    },
+    "@media (min-width: 2800px)": {
+        paddingTop: "140px",
+    },
+
     "@media (max-width: 1150px)": {
         paddingTop: "90px",
     },
